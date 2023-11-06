@@ -1,0 +1,6 @@
+Java 11 or later
+An IDE of your choice (the guide is using IntelliJ)
+Maven (or Gradle)
+Quarkus CLI
+Docker and Docker CLI (or your own database)
+Optional - GraalVM installation
